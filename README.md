@@ -1,4 +1,6 @@
-# traffic_flow_prediction
+# Traffic Flow Prediction
+
+Problem: In this problem, we are given an inflow matrix and an outflow matrix, which measure the traffic flow on the grid-based map over time. We want to predict the flow of the map in the future. Possible challenges are: (1) how to use both the spatial and temporal dependencies to predict the flow? (2) how to deal with the external factors which may shortly affect the flow, e.g., weather conditions,special events, etc.
 
 # NYC Dataset
 
